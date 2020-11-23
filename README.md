@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jellydn" alt="jellydn" /> </p>
 
-- 🔭 I’m currently working on [AirCarbon](https://aircarbon.co)
+- 🔭 I’m currently working in [AirCarbon](https://aircarbon.co)
 
 - 👨‍💻 All of my projects are available at [https://productsway.com](https://productsway.com)
 
