@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dung@productsway.com**
 
-- 📹 I often publish my video every Sunday on [IT Man Channel](https://www.youtube.com/channel/UC277tIVuzLYuFDU23kTXltg)
+- 📹 I often publish my video every Sunday on [IT Man Channel](https://www.youtube.com/c/ITManVietnam)
 
 [![Source Karma badge for @jellydn](https://sourcekarma-og.vercel.app/api/jellydn/github)](https://sourcekarma.vercel.app/jellydn)
 
