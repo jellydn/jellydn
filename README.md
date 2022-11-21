@@ -78,11 +78,17 @@
   </a>
 </div>
 
+<div>
+  <a href="https://bit.ly/m/itman">
+      <img width="268" alt="image" src="https://user-images.githubusercontent.com/870029/202943843-83fb09e4-024b-4d8a-bef5-4c731965598f.png" alt="ITMan">
+  </a>
+</div>
+
 ## Show your support
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q61Q7YM)
 
 <a href="https://bit.ly/m/itman">
-    <img src="https://user-images.githubusercontent.com/870029/202857200-6d260683-e3fa-45de-9ff6-b616ad1db940.png" alt="ITMan"/>
+    <img width="268" src="https://user-images.githubusercontent.com/870029/202857200-6d260683-e3fa-45de-9ff6-b616ad1db940.png" alt="ITMan"/>
  </a>
 
