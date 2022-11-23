@@ -76,6 +76,9 @@
   <a href="https://me.productsway.com">
     <img src="https://img.shields.io/badge/Polywork-blue?style=for-the-badge&logo=polywork&logoColor=white" alt="Polywork Badge"/>
   </a>
+  <a rel="me" href="https://mastodon.online/@jellydn">
+    <img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
+  </a>
 </div>
 
 <div>
