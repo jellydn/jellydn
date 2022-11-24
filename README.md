@@ -19,7 +19,6 @@
 
   [![IT Man - Tech #9 - Blockchain - DApp 101 - How to get started [Vietnamese]](https://i.ytimg.com/vi/LXRgV99S0Zk/mqdefault.jpg)](https://www.youtube.com/watch?v=LXRgV99S0Zk)
 
-
   IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]
   Published at 2021-08-22T04:03:49Z
 
@@ -35,12 +34,10 @@
 
   [![IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]](https://i.ytimg.com/vi/9fmViThaMGk/mqdefault.jpg)](https://www.youtube.com/watch?v=9fmViThaMGk)
 
-
   IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]
   Published at 2021-09-12T08:27:26Z
 
   [![IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]](https://i.ytimg.com/vi/_veIZBaHkSk/mqdefault.jpg)](https://www.youtube.com/watch?v=_veIZBaHkSk)
-
 
   IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]
   Published at 2022-04-17T03:50:12Z
@@ -52,16 +49,14 @@
 
   [![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
 
-
   IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]
   Published at 2021-03-28T06:59:27Z
 
   [![IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]](https://i.ytimg.com/vi/-_PB0cjEIxg/mqdefault.jpg)](https://www.youtube.com/watch?v=-_PB0cjEIxg)
 
   </details>
-  
 
-## Connect with Me
+<h2 align="center">Connect with Me</h2>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/dunghd">
@@ -81,17 +76,21 @@
   </a>
 </div>
 
-<div>
+<div align="center">
   <a href="https://bit.ly/m/itman">
       <img width="268" alt="image" src="https://user-images.githubusercontent.com/870029/202943843-83fb09e4-024b-4d8a-bef5-4c731965598f.png" alt="ITMan">
   </a>
 </div>
 
-## Show your support
+<h2 align="center">Show your support</h2>
+
+![sponsors](sponsors/sponsorkit/sponsors.svg)
+
+<div align="center">
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q61Q7YM)
 
 <a href="https://bit.ly/m/itman">
     <img width="268" src="https://user-images.githubusercontent.com/870029/202857200-6d260683-e3fa-45de-9ff6-b616ad1db940.png" alt="ITMan"/>
  </a>
-
+</div>

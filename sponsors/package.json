@@ -1,0 +1,14 @@
+{
+  "name": "sponsor",
+  "scripts": {
+    "build": "sponsorkit"
+  },
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.2.0",
+    "sponsorkit": "^0.6.1"
+  },
+  "dependencies": {
+    "sharp": "^0.31.2"
+  }
+}
