@@ -56,7 +56,7 @@
 
   </details>
 
-<h2 align="center">Connect with Me</h2>
+<h2>Connect with Me</h2>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/dunghd">
@@ -76,21 +76,18 @@
   </a>
 </div>
 
-<div align="center">
+<div>
   <a href="https://bit.ly/m/itman">
       <img width="268" alt="image" src="https://user-images.githubusercontent.com/870029/202943843-83fb09e4-024b-4d8a-bef5-4c731965598f.png" alt="ITMan">
   </a>
 </div>
 
-<h2 align="center">Show your support</h2>
+<h2>Show your support</h2>
 
-![sponsors](sponsors/sponsorkit/sponsors.svg)
-
-<div align="center">
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q61Q7YM)
+[![kofi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dunghd)
+[![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dunghd)
+[![buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dunghd)
 
 <a href="https://bit.ly/m/itman">
     <img width="268" src="https://user-images.githubusercontent.com/870029/202857200-6d260683-e3fa-45de-9ff6-b616ad1db940.png" alt="ITMan"/>
  </a>
-</div>
