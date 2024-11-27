@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://productsway.com](https://productsway.com)
 
-- 📝 I regulary write articles on [https://productsway.com](https://productsway.com)
+- 📝 I regulary write articles on [https://blog.productsway.com](https://blog.productsway.com)
 
 - 📫 How to reach me **dung@productsway.com**
 
