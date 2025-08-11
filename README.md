@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dung Huynh Duc</h1>
+<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/00787100-87bb-4360-87a7-206032e8ff17" />
+
 <h3 align="center">A passionate engineer from Singapore</h3>
 
 - 🔭 I’m currently working in [AirCarbon](https://aircarbon.co)
